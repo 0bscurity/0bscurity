@@ -21,13 +21,11 @@
 <br/>
 
 <a href="https://github.com/0bscurity">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=0bscurity&theme=buefy&show_icons=true" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0bscurity&theme=buefy&layout=compact" />
 </a>
 
 <br/>
 <br/>
 <p align="center">
-<a href="https://www.andrewhawk.net/"><img alt="Website" src="https://img.shields.io/badge/Website-www.andrewhawk.net-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/andrew-hawk-450455224/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 </p>
