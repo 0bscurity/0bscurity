@@ -28,5 +28,5 @@
 <br/>
 <br/>
 <p align="center">
-<a href="https://www.linkedin.com/in/andrew-hawk-450455224/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.hawkwebsolutions.com/resume/"><img alt="Online Resume"> Online Portfolio</a>
 </p>
